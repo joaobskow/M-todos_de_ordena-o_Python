@@ -1,2 +1,2 @@
 Nesse trabalho em grupo, nossa missão era criar um código em Python sobre métodos de ordenação para a cadeira de Fábrica de Software do segundo semestre da faculdade, nele aplicamos os seguintes métodos.
-Insertion Sort, Shell Sort, Selection Sort, Quick Sort, Merge Sort e Radix Sort, aplicamos esses algoritmos em um ou mais vetores numéricos ele mostra quantas trocas, comparações e quanto tempo cada algoritmo levou para ordenar os dados.
+Insertion Sort, Shell Sort, Selection Sort, Quick Sort, Merge Sort e Radix Sort, aplicamos esses algoritmos em um ou mais vetores numéricos. Com isso, ele imprimi quantas trocas, comparações e quanto tempo cada algoritmo levou para ordenar os dados.
